@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Currículo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 30px;
+    }
+    h1, h2 {
+      margin-bottom: 5px;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .section h2 {
+      border-bottom: 1px solid rgb(153, 153, 153);
+    }
+    .subsection {
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Guilherme Macedo Lima</h1>
+    <p>Nascimento:
+        Tv. Jose Benaldez | São Paulo | São Paulo</p>
+    <p>Contato: 55+ (87) 981712645 </p>
+  </header>
+
+  <main>
+    <section class="section">
+      <h2>Objetivos</h2>
+      </p>
+          Meu objetivo é conhecer meus idolos, fazer os outros felizes e ser uma pessoa admirada;
+      </p>
+    </section>
+
+    <section class="section">
+      <h2>Educação</h2>
+      <div class="subsection">
+        <h3>IFPE Campus Garanhus</h3>
+        <p> Completando o Ensino Medio|  Em processo...</p>
+      </div>
+
+      <p> Fã de carteirinha do Melhor da Historia do Futebol  🐐 ⚡️ 
+          <h1><span class="THE GOAT"></span></h1>
+      <img> src="https://static1.purepeople.com.br/articles/6/23/96/56/@/2743380-cristiano-ronaldo-e-a-familia-posaram-un-1200x0-2.jpg" alt="Cristiano Ronaldo">
+      
+      
